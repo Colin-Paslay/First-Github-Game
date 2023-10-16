@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://dgqv776kddyao"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_7q8dj"]
+font_size = 80
+font_color = Color(0.65098, 0.505882, 0.196078, 1)
+
+[node name="Label" type="Label"]
+offset_left = 282.0
+offset_top = 271.0
+offset_right = 855.0
+offset_bottom = 568.0
+text = "Colin Paslay"
+label_settings = SubResource("LabelSettings_7q8dj")
+horizontal_alignment = 1
